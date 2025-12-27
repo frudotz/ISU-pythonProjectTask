@@ -1,1 +1,1 @@
-# ISU-pythonProjectTask
+# Adisyon Uygulaması (Python Proje Ödevi)
